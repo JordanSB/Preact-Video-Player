@@ -1,4 +1,4 @@
 import './style';
-import App from './components/video/videoplayer';
+import App from './components/video/hlsplayer';
 
 export default App;
