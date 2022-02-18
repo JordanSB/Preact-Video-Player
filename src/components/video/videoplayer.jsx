@@ -1,4 +1,6 @@
 import React, { useRef } from "react";
+import Hls from "hls.js";
+
 import "../../style/app.css";
 import 'boxicons';
 
